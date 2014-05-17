@@ -1,0 +1,2 @@
+#depends "gsettings"
+#depends "gconf"
