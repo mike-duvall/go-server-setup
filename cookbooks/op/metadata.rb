@@ -1,2 +1,2 @@
-#depends "gsettings"
-#depends "gconf"
+depends "gsettings"
+depends "gconf"
